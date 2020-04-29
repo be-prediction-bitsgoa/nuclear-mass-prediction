@@ -2,11 +2,14 @@
 
 ## Installation
 
+
+### Since these files are large, [GIT LFS](https://git-lfs.github.com/) must be initialized before cloning.
+
 1. You must have Python3 (64-bit) running on your system. ([link](https://www.python.org/downloads/) to download python) - Make sure that 64-bit Python is installed. The program will not run on 32-bit python.
 
 2. You must have pip downloaded ([link](https://pip.pypa.io/en/stable/installing/) to download pip)
 
-3. Clone this repository or download it as .zip and unzip locally.
+3. Clone this repository
 
 `git clone https://github.com/be-prediction-bitsgoa/nuclear-mass-prediction.git`
 
