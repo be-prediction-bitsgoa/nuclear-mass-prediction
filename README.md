@@ -1,3 +1,5 @@
+# __**IMPORTANT NOTE: **__ If you are not able to clone this repository, please download the files from [this Google drive link](https://drive.google.com/drive/folders/1EWUot993Ci-BxP99V8DFrNbzKTuLLLaf?usp=sharing) and proceed with the further steps.
+
 # nuclear-mass-prediction
 
 ## Installation
